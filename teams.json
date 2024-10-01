@@ -1,0 +1,121 @@
+{
+    "teams_img": {
+        "49ers" : "49ers.png",
+        "bears" : "bears.png",
+        "bengals" : "bengals.png",
+        "bills" : "bills.png",
+        "broncos" : "broncos.png",
+        "browns" : "browns.png",
+        "buccaneers" : "buccaneers.png",
+        "cardinals" : "cardinals.png",
+        "chargers" : "chargers.png",
+        "chiefs" : "chiefs.png",
+        "colts" : "colts.png",
+        "commanders" : "commanders.png",
+        "cowboys" : "cowboys.png",
+        "dolphins" : "dolphins.png",
+        "eagles" : "eagles.png",
+        "falcons" : "falcons.png",
+        "giants" : "giants.png",
+        "jaguars" : "jaguars.png",
+        "jets" : "jets.png",
+        "lions" : "lions.png",
+        "packers" : "packers.png",
+        "panthers" : "panthers.png",
+        "patriots" : "patriots.png",
+        "raiders" : "raiders.png",
+        "rams" : "rams.png",
+        "ravens" : "ravens.png",
+        "saints" : "saints.png",
+        "seahawks" : "seahawks.png",
+        "steelers" : "steelers.png",
+        "texans" : "texans.png",
+        "titans" : "titans.png",
+        "vikings" : "vikings.png"
+    },
+    "schedule": {
+        "week4" : [
+            {
+                "home_team" : "packers",
+                "away_team" : "vikings",
+                "home_spread" : "-3"
+            },
+            {
+                "home_team" : "giants",
+                "away_team" : "cowboys",
+                "home_spread" : "5.5"
+            },
+            {
+                "home_team" : "panthers",
+                "away_team" : "bengals",
+                "home_spread" : "4.5"
+            },
+            {
+                "home_team" : "jets",
+                "away_team" : "broncos",
+                "home_spread" : "-7.5"
+            },
+            {
+                "home_team" : "texans",
+                "away_team" : "jaguars",
+                "home_spread" : "-6"
+            },
+            {
+                "home_team" : "colts",
+                "away_team" : "steelers",
+                "home_spread" : "1.5"
+            },
+            {
+                "home_team" : "falcons",
+                "away_team" : "saints",
+                "home_spread" : "-2.5"
+            },
+            {
+                "home_team" : "buccaneers",
+                "away_team" : "eagles",
+                "home_spread" : "2"
+            },
+            {
+                "home_team" : "bears",
+                "away_team" : "rams",
+                "home_spread" : "-3"
+            },
+            {
+                "home_team" : "cardinals",
+                "away_team" : "commanders",
+                "home_spread" : "-3.5"
+            },
+            {
+                "home_team" : "49ers",
+                "away_team" : "patriots",
+                "home_spread" : "-10.5"
+            },
+            {
+                "home_team" : "chargers",
+                "away_team" : "chiefs",
+                "home_spread" : "7"
+            },
+            {
+                "home_team" : "raiders",
+                "away_team" : "browns",
+                "home_spread" : "-1.5"
+            },
+            {
+                "home_team" : "ravens",
+                "away_team" : "bills",
+                "home_spread" : "-2.5"
+            },
+            {
+                "home_team" : "dolphins",
+                "away_team" : "titans",
+                "home_spread" : "-1"
+            },
+            {
+                "home_team" : "lions",
+                "away_team" : "seahawks",
+                "home_spread" : "-3.5"
+            }
+        ]
+    },
+    "edited" : false
+}
